@@ -23,7 +23,7 @@ torch
 ultralytics (for YOLOv8)
 filterpy
 
-# ** 🚀 How It Works **
+# **🚀 How It Works**
 YOLOv8 detects objects frame-by-frame.
 Tracker assigns consistent IDs to objects across frames.
 Speed is calculated using:
